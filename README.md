@@ -22,14 +22,23 @@ Table of Contents
 1. Zhuobing Han, Xiaohong Li, Hongtao Liu, Zhenchang Xing, Zhiyong Feng. [DeepWeak: reasoning common software weaknesses via knowledge graph embedding](https://ieeexplore.ieee.org/abstract/document/8330232). SANER 2018. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8330232)
 
 
-2. Yongpan Sheng, Zenglin Xu, Yafang Wang, Gerard de Melo. [Multi-document semantic relation extraction for news
-analytics](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf). WWWJ 2020. [[Paper]](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf)
+2. Hongwei Li, Sirui Li, Jiamou Sun, Zhenchang Xing, Xin Peng, Mingwei Liu, Xuejiao Zhao. [Improving API Caveats Accessibility by Mining API Caveats Knowledge Graph](https://ieeexplore.ieee.org/document/8530028). CSME 2018. [[Paper]](https://ieeexplore.ieee.org/document/8530028)
 
 
-3. Sheng Bi, Yanhui Huang, Xiya Cheng, Meng Wang, Guilin Qi. [Building Chinese Legal Hybrid Knowledge Network](https://link.springer.com/content/pdf/10.1007%2F978-3-030-29551-6_56.pdf). KSEM 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-29551-6_56.pdf)
+3. Xuejiao Zhao, Zhenchang Xing, Muhammad Ashad Kabir, Naoya Sawada, Jing Li, Shang-Wei Lin. [HDSKG: harvesting domain specific knowledge graph from content of webpages](https://ieeexplore.ieee.org/document/7884609/authors#authors). SANER 2017. [[Paper]](https://ieeexplore.ieee.org/document/7884609/authors#authors)
 
 
-7. Penghe Chen, Yu Lu, Vincent W.Zheng, Xiyang Chen, Xiaoqing Li. [An Automatic Knowledge Graph Construction System for K-12 Education](https://dl.acm.org/doi/pdf/10.1145/3231644.3231698?download=true). ACM Conference on Learning @ Scale 2018. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3231644.3231698?download=true)
+4. Deheng Ye, Zhenchang Xing, Nachiket Kapre. [The structure and dynamics of knowledge network in domain-specific Q&A sites: a case study of stack overflow](https://link.springer.com/content/pdf/10.1007/s10664-016-9430-z.pdf). Empirical Software Engineering 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007/s10664-016-9430-z.pdf)
+
+
+5. Bowen Xu, Deheng Ye, Zhenchang Xing, Xin Xia, Guibin Chen, Shanping Li. [Predicting semantically linkable knowledge in developer online forums via convolutional neural network](https://ieeexplore.ieee.org/document/7582745/authors#authors). ICASE 2016. [[Paper]](https://ieeexplore.ieee.org/document/7582745/authors#authors)
+
+
+6. Chunyang Chen, Sa Gao, Zhenchang Xing. [Mining Analogical Libraries in Q&A Discussions — Incorporating Relational and Categorical Knowledge into Word Embedding](https://chunyang-chen.github.io/publication/analogical_libraries.pdf). SANER 2016. [[Paper]](https://chunyang-chen.github.io/publication/analogical_libraries.pdf)
+
+
+7. Chunyang Chen, Zhenchang Xing, Lei Han. [TechLand: Assisting technology landscape inquiries with insights from stack overflow](http://ccywch.github.io/chenchunyang.github.io/publication/techLand.pdf). ICSME 2016. [[Paper]](http://ccywch.github.io/chenchunyang.github.io/publication/techLand.pdf)
+
 
 
 ## Tutorials
