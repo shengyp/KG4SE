@@ -10,11 +10,16 @@ Table of Contents
 
 
   * [Datasets / Shared Tasks](#Datasets_Shared_Tasks)
+  * [Review on Knowledge Graph for Software Engineering](#Review_on_Knowledge_Graph_for_Software_Engineering)
   * [Knowledge Graph for Software Engineering](#Knowledge_Graph_for_Software_Engineering)
   * [Tutorials](#Tutorials)
 
 
 ## Datasets_Shared_Tasks
+
+
+## Review_on_Knowledge_Graph_for_Software_Engineering
+1. Fei Wang, Jingping Liu, Bin Liu, Tieyun Qian, Yanghua Xiao, Zhiyong Peng. [Survey on Construction of Code Knowledge Graph and Intelligent Software Development](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5893&year_id=2020&quarter_id=1&falg=1). Journal of Software 2020. 
 
 
 
