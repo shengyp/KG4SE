@@ -46,6 +46,10 @@ Table of Contents
 
 
 
+[和AI结对编程！OpenAI与GitHub联手推出AI代码生成工具，比GPT-3更强大](https://mp.weixin.qq.com/s/6ZKdBPgv6pZ1aE4o0XRBig)
+
+
+
 ## Tutorials
 1. The first International Workshop on Knowledge Graph for Software Engineering. [[KG4SE 2020]](http://bigcode.fudan.edu.cn/events/KG4SE2020/)
 
