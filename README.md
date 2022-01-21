@@ -52,6 +52,9 @@ Table of Contents
 [CNCC 2021 | 北京大学谢涛教授领衔，8位重磅专家论道「低代码到无代码开发」](https://mp.weixin.qq.com/s/w2CSKo_k2qdrsUF48WfbFw)
 
 
+[软件工程学科研究生课程建设](https://www.ccf.org.cn/ccfdl/ccf_dl_focus/Chinasoft/Volume2/)
+
+
 
 ## Tutorials
 1. The first International Workshop on Knowledge Graph for Software Engineering. [[KG4SE 2020]](http://bigcode.fudan.edu.cn/events/KG4SE2020/)
