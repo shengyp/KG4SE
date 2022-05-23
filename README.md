@@ -55,6 +55,9 @@ Table of Contents
 [软件工程学科研究生课程建设](https://www.ccf.org.cn/ccfdl/ccf_dl_focus/Chinasoft/Volume2/)
 
 
+[五篇基于图的代码表示学习论文介绍](https://mp.weixin.qq.com/s/DkH-f5E-vlGQmelUkCTNGA)
+
+
 
 ## Tutorials
 1. The first International Workshop on Knowledge Graph for Software Engineering. [[KG4SE 2020]](http://bigcode.fudan.edu.cn/events/KG4SE2020/)
