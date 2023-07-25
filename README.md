@@ -58,6 +58,9 @@ Table of Contents
 [五篇基于图的代码表示学习论文介绍](https://mp.weixin.qq.com/s/DkH-f5E-vlGQmelUkCTNGA)
 
 
+[人人都有“AI编程助手”！CodeGeeX2-6B开源，最低6GB显存](https://mp.weixin.qq.com/s/UF8SU1eEraHdqO6xbgVkkA)
+
+
 
 ## Tutorials
 1. The first International Workshop on Knowledge Graph for Software Engineering. [[KG4SE 2020]](http://bigcode.fudan.edu.cn/events/KG4SE2020/)
